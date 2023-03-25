@@ -15,6 +15,9 @@ Rishav Kumar Paramhans
 If you utilize this work, please give a star to this repository.
 A detailed report of the project will be uploaded under the assets folder soon.
 
+# Results
+Qualitative and Quantitive results will be published here soon.
+
 # Setup
 * ## Cuda and Python
 In this Project I utilized Pytorch with Python 3.10, Cuda 11.6 and few other python libraries. However, feel free to try alternative versions or model of installation.
