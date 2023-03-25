@@ -7,10 +7,10 @@ Rishav Kumar Paramhans
 * The Multi-task Neural Network performs 2D Object Detection, Monocular 3D Object Detection, Semantic Segmentation and Monocular Depth Estimation simaltaneously for autonomous driving senarios. 
 * The model has been training on Audi Autonomous Driving Dataset.
 * The network outperforms the corresponding single-task neural network by susbtatial margin. 
-* Metrics used for performance quantification: a) Monocular 3D Object Detection: Mean Average Precsion BEV
-                                               b) 2D Object Detection : Mean Average Precision
-                                               c) Semantic Segmentation : DICE Score amd IOU Score
-                                               d) Depth Estimation: Threshold ( 0.5, 0.75 of Standard Deviations)
+* Metrics used for performance quantification: * Monocular 3D Object Detection: Mean Average Precsion BEV
+                                               * 2D Object Detection : Mean Average Precision
+                                               * Semantic Segmentation : DICE Score amd IOU Score
+                                               * Depth Estimation: Threshold ( 0.5, 0.75 of Standard Deviations)
 
 If you utilize this work, please give a star to this repository.
 A detailed report of the project will be uploaded under the assets folder soon.
