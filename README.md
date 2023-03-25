@@ -8,10 +8,10 @@ Rishav Kumar Paramhans
 * The model has been training on Audi Autonomous Driving Dataset.
 * The network outperforms the corresponding single-task neural network by susbtatial margin. 
 * Metrics used for performance quantification:
-* Monocular 3D Object Detection: Mean Average Precsion BEV
-* 2D Object Detection : Mean Average Precision
-* Semantic Segmentation : DICE Score amd IOU Score
-* Depth Estimation: Threshold ( 0.5, 0.75 of Standard Deviations)
+  * Monocular 3D Object Detection: Mean Average Precsion BEV
+  * 2D Object Detection : Mean Average Precision
+  * Semantic Segmentation : DICE Score amd IOU Score
+  * Depth Estimation: Threshold ( 0.5, 0.75 of Standard Deviations)
 
 If you utilize this work, please give a star to this repository.
 A detailed report of the project will be uploaded under the assets folder soon.
