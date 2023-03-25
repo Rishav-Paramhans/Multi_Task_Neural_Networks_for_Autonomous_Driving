@@ -1,4 +1,4 @@
-### Multi-Task Neural Network for Auonomous Driving
+## Multi-Task Neural Network for Auonomous Driving
 
 Rishav Kumar Paramhans
 
@@ -26,5 +26,5 @@ Download the full A2D2 dataset from the official Audi Dataset website. Training 
 Use the command: python train.py
 The training progress can be monitored using Tensorboard. Writing the logs on the Tensorboard can be handled using hthe hypermeter WRITER in the training scripts.
 
-# * Contact
+* # Contact
 For questions reagrding the project, feel free to post here or directly contact the author at rishavkrparamhans@gmail.com
